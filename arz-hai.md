@@ -1,8 +1,8 @@
 
 ## 1
 Arz hai
-Kuch hosh nahin rehta, kuch dhyan nahi rehta
-Insaan mohabbat mein insaan nahi rehta
+- Kuch hosh nahin rehta, kuch dhyan nahi rehta
+- Insaan mohabbat mein insaan nahi rehta
 
 ## 2
 Barson guzar gaye, kabhi ro kar nahi dekha
