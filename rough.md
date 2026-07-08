@@ -1,3 +1,6 @@
+
+https://eswathu.karnataka.gov.in/AA/CheckPropertyStatus_Public.aspx
+---
 SVF5006689
 
 INA8912404
@@ -193,6 +196,20 @@ Thank you
 On Behalf of Shakha President 
 Shri Sadanandan A N
 
+
+---
+SUBJECT: Shivagiri Township Shakha Kudumba Prarthana – July
+
+Dear All,
+
+You are cordially invited to attend the Kudumba Prarthana for the month of July, to be held on 11th July 2026 at the residence of our esteemed member, Shri Sadanandan A N, 3rd Main, Shivagiri Township Phase 1.
+
+Location: Residence of Shri Sadanandan A N, 3rd Main, Shivagiri Township Phase 1 
+Date & Time: 11th July 2026, 5:00 PM
+
+We look forward to your gracious presence and participation.
+
+Thank you.
 
 ---
 
