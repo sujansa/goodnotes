@@ -384,6 +384,9 @@ Mother: 9945228297
 APAAR ID 719635008962
 
 
+New PID in Application 150200400100424266
+
+
  	villagecode	property_unique_id	owner_name	property_no	survey_no	house_no	address
 Select	1502004001004	150200400100400369	ಪಿ.ಸುರೇಂದ್ರನ್ ಬಿನ್ ಪದ್ಮನಾಭನ್	55	 	360	ಬೈಯ್ಯಪ್ಪನಹಳ್ಳಿ ಬಿದರಹಳ್ಳಿ ಹೋಬಳಿ ಬೆಂಗಳೂರು ಪೂರ್ವ ತಾಲ್ಲೂಕು
 
