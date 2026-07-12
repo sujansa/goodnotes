@@ -1,3 +1,20 @@
+Todo:
+House Improvements
+- Dismantle the washing stone on terrace
+- Redo common bathroom with single large titles on floor and walls, seel the external washbasin pipe, add exhaust, better door, repaint windows,
+- Sort kitchen storage
+- Pest control
+- cat spikes
+- Repot plants
+- Repaint windows
+- Wall paint in sections
+- Buy light weight chairs
+
+Others
+- Income tax filing
+- Cloud storage finalization
+
+
 
 https://eswathu.karnataka.gov.in/AA/CheckPropertyStatus_Public.aspx
 ---
