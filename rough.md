@@ -1,3 +1,30 @@
+# Prague Travel
+
+## Arrival
+-  Do not walk outside the Arrivals doors on the ground floor.
+-  Instead, locate the indoor escalators or elevators inside Terminal 2 and go up one floor to the Departures Hall. Head outside through Exit D
+-  Book Standard UberX or Bolt ~500–550 CZK to Pulse8
+
+Food
+-
+-  Smažený Sýr (Fried Cheese)
+-  Chicken Schnitzel - cutlet
+- 
+-  Buchty/ Buchta - Fluffy yeast bun
+-  Kremrole -
+-  Jablečný Štrůdl - Apple Strudel
+-  Koláče - pastries with apricots, berries, prunes or poppy seeds
+-  Palačinky - Pancakes
+-  Věneček
+-  Větrník
+-  Limonáda
+
+
+Travel
+- Charles Bridge
+- Old Town Square , Prague Astronomical Clock 
+- Prague Castle Complex
+- 
 Todo:
 House Improvements
 - Dismantle the washing stone on terrace
