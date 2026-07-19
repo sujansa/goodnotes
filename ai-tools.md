@@ -34,5 +34,7 @@ https://www.youtube.com/playlist?list=PLPmQ8t2UEB-c4arpA5cH8TjlNgxzwkJX8
 
 https://chatgpt.com/g/g-67b866a648a88191b29e8274026994fd-be10x-ats-resume-generator
 
+https://certx.in/certificate/0270772f-3809-4400-b29b-1e1c61cd09971565970
 
+https://certx.in/certificate/0270772f-3809-4400-b29b-1e1c61cd09971567641
 
