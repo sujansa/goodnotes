@@ -25,4 +25,14 @@ https://n8n.io/ai-agents/  AI Employee
 
 https://claude.ai/  Dispatch mode
 
+https://gemini.google.com/
+
+Prompt Engineering
+
+
+https://www.youtube.com/playlist?list=PLPmQ8t2UEB-c4arpA5cH8TjlNgxzwkJX8
+
+https://chatgpt.com/g/g-67b866a648a88191b29e8274026994fd-be10x-ats-resume-generator
+
+
 
