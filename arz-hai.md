@@ -46,6 +46,17 @@ Dard ka hadd se guzarna hai dawa ho jana - Mirza Ghalib
 - Hairan hoon main apni hasraton pe Iqbal,
 - Har cheez maang li, magar Khuda ko chhod kar!!!
 
+Ki Choti si zindagi mein armaan bohot the
+Hamdard nahi tha koi, insaan bohot the
+
+
+Bula dhenge thum ko bhi, zara sabr tho rakko
+Rag rag mein basse ho thoda wakt tho lagega
+
+Adah matlab nigah matlab
+Yaar matlab pyaar matlab 
+Batta matlab kahan jaoon
+Jahan jaoon wahan matlab
 
 
 
