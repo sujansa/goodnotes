@@ -45,6 +45,11 @@ shares. Take both long and short side trades.
 4) Give the list of each trade. Also mention total number of trades, Number of profitable trades, Number of loss trades, Compounded returns.
 In the end, Show me in detail in a dashboard the list of trades, equity curve, strategy stats and also pros and cons of the strategy and possible ways of improving it. Let me know if the Strategy is profitable and also how much Profit/loss was made in both absolute and percentage terms.
 
+
+You're here to EARN.
+For that you must LEARN.
+
+
 # Prague Travel
 
 ## Arrival
