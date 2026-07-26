@@ -1,3 +1,27 @@
+
+# Stock Market Analysis
+
+ChatGPT -> Google Colab -> TradingView -> Claude (Backtest)
+
+https://in.tradingview.com/
+
+Moving Average Crossover Strategy
+A moving average (MA) crossover strategy generates buy and sell signals when a fast, short-term moving average crosses above or below a slow, long-term moving average. Common setups include the 50/200-day SMA, 20/50-period EMA, and 9/21-period EMA.
+
+
+Prompt 3 to Backtest Data
+1) Take the past 8 years of historical data-and calculate the 21 and 50 simple moving averages,
+representing the data in different columns.
+2) We want to build a moving average crossover strategy for 21 and 50 dma, implement the
+same and give the entry and exit signals. BUY signal = when 21 dma crosses over 50 dma fron
+elow and SELL Sianal = when 21 dma crosses under 50 dma from above. Show the Buv siana
+with +1 and Sell Signal with -1, No signal means 0.
+3) Now let's backtest this strategy, assuming we have a starting capital of Rs. 2,00,000. Show
+the Profit and Loss of each trade in the excel sheet, Trade with 1 lot of Nifty Futures = 50
+shares. Take both long and short side trades.
+4) Give the list of each trade. Also mention total number of trades, Number of profitable trades, Number of loss trades, Compounded returns.
+In the end, Show me in detail in a dashboard the list of trades, equity curve, strategy stats and also pros and cons of the strategy and possible ways of improving it. Let me know if the Strategy is profitable and also how much Profit/loss was made in both absolute and percentage terms.
+
 # Prague Travel
 
 ## Arrival
