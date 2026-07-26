@@ -8,6 +8,29 @@ https://in.tradingview.com/
 Moving Average Crossover Strategy
 A moving average (MA) crossover strategy generates buy and sell signals when a fast, short-term moving average crosses above or below a slow, long-term moving average. Common setups include the 50/200-day SMA, 20/50-period EMA, and 9/21-period EMA.
 
+Prompt 1 to Analyze Data
+Give me code to Downloa [INDEX] from|start date] to [lend date) Historical Data from yfinance Library into an excel sheet in csv format, define time using timedelta function.
+
+Prompt 2 to Analyze Data
+Do the following analysis for NIFTY INDEX with the data attached
+1. Introduction to the Dataset:
+- "Can you describe the dataset including its features and date range?"
+2. Basic Data Analysis:
+- "Please provide summary statistics for the NIFTY index over the last 8 years."
+3. Trend Analysis:
+- "Can you identify any trends in the NIFTY index data over the past eight years? Plot a Line
+Chart"
+4. Volatility Analysis:
+- "Assess the volatility of the NIFTY index based on the historical data provided. Also represent it graphically"
+5. Advanced Analysis :
+- "Perform a moving average analysis on the NIFTY data."
+6. Comparative Analysis:
+- "Compare the yearly performance of the NIFTY index for the past eight years."
+- "Give monthly % returns for NIFTY for using a heat map (positive with green and negative
+with red) for the past eight years*
+7. Seasonal Patters:
+- "Analyze if there are any seasonal trends in the NIFTY index data that recur annually with
+the help of chart and also explain the possible reasons for it"
 
 Prompt 3 to Backtest Data
 1) Take the past 8 years of historical data-and calculate the 21 and 50 simple moving averages,
