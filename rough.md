@@ -1,4 +1,8 @@
 
+record the example of a programmer simulating bird group behaviour which biologists failed to explain, to say that AI becoming sentient should not be a surprise 
+
+
+
 # Stock Market Analysis
 
 ChatGPT -> Google Colab -> TradingView -> Claude (Backtest)
