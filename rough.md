@@ -296,7 +296,19 @@ Thank you
 On Behalf of Shakha President 
 Shri Sadanandan A N
 
+---
+SUBJECT: Shivagiri Township Shakha Kudumba Prarthana – August
 
+Dear All,
+
+You are cordially invited to attend the Kudumba Prarthana for the month of August, to be held on 8th July 2026 at the residence of our esteemed member, Shri Abhilash Thambi, 6th Main, Shivagiri Township Phase 1.
+
+Location: Residence of Shri Abhilash Thambi, 6th Main, Shivagiri Township Phase 1 
+Date & Time: 8th July 2026, Saturday, 5:00 PM
+
+We look forward to your gracious presence and participation.
+
+Thank you.
 ---
 SUBJECT: Shivagiri Township Shakha Kudumba Prarthana – July
 
