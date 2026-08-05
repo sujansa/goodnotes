@@ -1,6 +1,16 @@
 
 
 
+
+# 1. Pull a highly optimized 3.2 Billion parameter vision model for analyzing images
+ollama run llama3.2-vision:3b-instruct-q4_K_M
+
+# 2. Pull a lightweight 1.5 Billion parameter model optimized for fast flowchart text output
+ollama run qwen2.5:1.5b-instruct-q4_K_M
+
+
+----
+
 https://notebooklm.google.com/
 
 https://wisprflow.ai/
