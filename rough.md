@@ -1,4 +1,111 @@
 
+# 20260821
+
+'/Users/sujansa/Documents/File-Transit/untitled folder/CleanMusic'
+
+
+find . -type f -mindepth 2 -exec sh -c 'for f; do p="${f%/*}"; mv "$f" "/path/to/destination_folder/${p##*/}_${f##*/}"; done' _ {} +
+
+
+find . -type f -mindepth 2 -exec sh -c 'for f; do p="${f%/*}"; mv "$f" "/Users/sujansa/Documents/File-Transit/untitled folder/CleanMusic/${p##*/}_${f##*/}"; done' _ {} +
+
+
+find . -type f -mindepth 2 -exec sh -c '
+  for f; do
+    rel="${f#./}"
+    prefix=$(echo "$rel" | awk -F'/' '{
+      if (NF >= 3) print $(NF-2) "_" $(NF-1) "_";
+      else if (NF == 2) print $(NF-1) "_";
+    }')
+    mv "$f" "/Users/sujansa/Documents/File-Transit/untitled folder/CleanMusic/${prefix}${f##*/}"
+  done
+' _ {} +
+
+
+find . -type f -mindepth 2 -exec sh -c '
+  for f; do
+    rel="${f#./}"
+    prefix=$(echo "$rel" | awk -F'/' '{
+      if (NF >= 3) print $(NF-2) "_" $(NF-1) "_";
+      else if (NF == 2) print $(NF-1) "_";
+    }')
+    echo "$f" "/Users/sujansa/Documents/File-Transit/untitled folder/CleanMusic/${prefix}${f##*/}"
+  done
+' _ {} +
+
+
+
+## With Folder Prefix
+
+find . -type f -mindepth 2 -exec sh -c '
+  for f; do
+    clean="${f#./}"
+    filename="${clean##*/}"
+    dirs="${clean%/*}"
+    
+    p1="${dirs##*/}"
+    rest="${dirs%/*}"
+    
+    if [ "$rest" != "$dirs" ] && [ -n "$rest" ]; then
+      p2="${rest##*/}"
+      prefix="${p2}_${p1}_"
+    else
+      prefix="${p1}_"
+    fi
+    
+    mv "$f" "/Users/sujansa/Documents/File-Transit/untitled folder/CleanMusic/${prefix}${filename}"
+  done
+' _ {} +
+
+
+## Without Prefix
+
+find . -type f -mindepth 2 -exec sh -c 'mv "$@" "/Users/sujansa/Documents/File-Transit/untitled folder/CleanMusic/"' _ {} +
+
+
+sujansa@Sujans-MacBook-Pro-2 MusicArch % cd /Volumes/HDD
+sujansa@Sujans-MacBook-Pro-2 HDD % time dd if=/dev/zero bs=1024k of=tstfile count=1024
+1024+0 records in
+1024+0 records out
+1073741824 bytes transferred in 29.125692 secs (36865796 bytes/sec)
+dd if=/dev/zero bs=1024k of=tstfile count=1024  0.00s user 0.52s system 1% cpu 31.183 total
+sujansa@Sujans-MacBook-Pro-2 HDD % dd if=tstfile bs=1024k of=/dev/null count=1024
+1024+0 records in
+1024+0 records out
+1073741824 bytes transferred in 27.127558 secs (39581219 bytes/sec)
+sujansa@Sujans-MacBook-Pro-2 HDD % rm tstfile
+sujansa@Sujans-MacBook-Pro-2 HDD % 
+
+sujansa@Sujans-MacBook-Pro-2 HDD % cd /Volumes/SanDisk 
+sujansa@Sujans-MacBook-Pro-2 SanDisk % time dd if=/dev/zero bs=1024k of=tstfile count=1024
+1024+0 records in
+1024+0 records out
+1073741824 bytes transferred in 93.653078 secs (11465099 bytes/sec)
+dd if=/dev/zero bs=1024k of=tstfile count=1024  0.00s user 0.34s system 0% cpu 1:33.66 total
+sujansa@Sujans-MacBook-Pro-2 SanDisk % dd if=tstfile bs=1024k of=/dev/null count=1024
+1024+0 records in
+1024+0 records out
+1073741824 bytes transferred in 81.585550 secs (13160931 bytes/sec)
+sujansa@Sujans-MacBook-Pro-2 SanDisk % rm tstfile 
+
+sujansa@Sujans-MacBook-Pro-2 SanDisk % cd /Users/sujansa/Documents/Berry
+sujansa@Sujans-MacBook-Pro-2 Berry % time dd if=/dev/zero bs=1024k of=tstfile count=1024
+1024+0 records in
+1024+0 records out
+1073741824 bytes transferred in 0.805077 secs (1333713203 bytes/sec)
+dd if=/dev/zero bs=1024k of=tstfile count=1024  0.00s user 0.33s system 41% cpu 0.815 total
+sujansa@Sujans-MacBook-Pro-2 Berry % dd if=tstfile bs=1024k of=/dev/null count=1024
+1024+0 records in
+1024+0 records out
+1073741824 bytes transferred in 0.202603 secs (5299733094 bytes/sec)
+sujansa@Sujans-MacBook-Pro-2 Berry % rm tstfile 
+
+
+
+
+
+
+---
 Hi everyone. I'm Sujan Anita, and I lead the Technical Solutions organization at Lavendel. I have close to 20 years of experience in the IT industry, including eight years implementing pricing solutions—three years with Vendavo and five years with Pricefx. I also have around 10 years of project management experience. For this engagement, I'll be leading the technical aspects of the project. I also led the team that successfully delivered Phase 1A for Kia last year, so I'm excited to continue working with you all and help take this project to a successful finish. Thank you.
 
 --
