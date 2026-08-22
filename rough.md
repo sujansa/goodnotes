@@ -1,6 +1,7 @@
 
 # 20260821
 
+```
 '/Users/sujansa/Documents/File-Transit/untitled folder/CleanMusic'
 
 
@@ -104,7 +105,7 @@ sujansa@Sujans-MacBook-Pro-2 Berry % rm tstfile
 
 
 
-
+```
 ---
 Hi everyone. I'm Sujan Anita, and I lead the Technical Solutions organization at Lavendel. I have close to 20 years of experience in the IT industry, including eight years implementing pricing solutions—three years with Vendavo and five years with Pricefx. I also have around 10 years of project management experience. For this engagement, I'll be leading the technical aspects of the project. I also led the team that successfully delivered Phase 1A for Kia last year, so I'm excited to continue working with you all and help take this project to a successful finish. Thank you.
 
