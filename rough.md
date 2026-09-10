@@ -1,4 +1,15 @@
 
+# Security
+
+Gate:QDC7LKVY3WVSBD1H
+Hall:3FBIYRL092X40MLL
+Street:TIM6UDL6HNZRY7IA
+Terrace:NCLD8QCWQ2IPVOCX
+Kitchen:
+
+admin/Cctv@2025
+
+
 # 20260821
 
 ```
